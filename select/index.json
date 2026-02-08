@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "星のオーケストラ",
+  "base_artist": "saji",
+  "createdAt": "2026-02-08T04:11:24.421704Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "360°星のオーケストラ",
+      "artist": "petit milady",
+      "has_synced": true,
+      "path": "select/01_360°星のオーケストラ_petit_milady.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "360°星のオーケストラ (feat. リアジュボーン)",
+      "artist": "petit milady",
+      "has_synced": false,
+      "path": "select/02_360°星のオーケストラ_(feat._リアジュボーン)_petit_milady.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "360°星のオーケストラ (instrumental)",
+      "artist": "petit milady",
+      "has_synced": true,
+      "path": "select/03_360°星のオーケストラ_(instrumental)_petit_milady.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "星のオーケストラ",
+      "artist": "saji",
+      "has_synced": true,
+      "path": "select/04_星のオーケストラ_saji.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星のオーケストラ",
+      "artist": "saji",
+      "has_synced": false,
+      "path": "select/pl_01_星のオーケストラ_saji.txt"
+    }
+  ]
+}
